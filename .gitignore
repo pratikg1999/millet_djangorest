@@ -1,0 +1,16 @@
+# *.h5
+venv/
+tenv/
+wrong_todelete/
+wrong_todelete2/
+/*.png
+DiseasesMillets/
+.vscode/
+
+# ignore hdf5 files
+*.hdf
+*.h5
+*.hdf5
+*.he5
+
+!webapp/DiseasesMillets.h5
